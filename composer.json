@@ -1,5 +1,15 @@
 {
-    "require": {
-        "twig/twig": "3.6"
-    }
+    "name": "chaimaelomrani/projet-mvc-php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chaima-syc",
+            "email": "chaimaelomrani6@gmail.com"
+        }
+    ],
+    "require": {}
 }
